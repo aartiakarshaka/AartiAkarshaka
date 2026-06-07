@@ -3,7 +3,7 @@
 <a href="https://instagram.com/aarti8283" target="_blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="24px"/></a>
 <br/><br/>
 
-<img align="right" alt="GIF" src="./techstack.png" width="340px"/>
+<img align="right" alt="GIF" src="./techstack.png" width="340px" height="340px"/>
 
 ### 🚀 Professional Summary
 AWS and DevOps Engineer with **4+ years** of hands-on experience in automating, configuring, and deploying cloud infrastructure and CI/CD pipelines. Proven ability to design and implement infrastructure as code (IaC), containerized applications using Docker and Kubernetes, and automate deployments using Jenkins, GitHub Actions, and Terraform. Proficient in monitoring, logging, and maintaining highly available systems on AWS. Strong exposure to Agile environments and production support.
