@@ -6,13 +6,12 @@
 <img align="right" alt="GIF" src="./techstack.gif" width="340px"/>
 
 ### 🚀 Professional Summary
-AWS and DevOps Engineer with **3 years and 10 months** of hands-on experience in automating, configuring, and deploying cloud infrastructure and CI/CD pipelines. Proven ability to design and implement infrastructure as code (IaC), containerized applications using Docker and Kubernetes, and automate deployments using Jenkins, GitHub Actions, and Terraform. Proficient in monitoring, logging, and maintaining highly available systems on AWS. Strong exposure to Agile environments and production support.
+AWS and DevOps Engineer with **4+ years** of hands-on experience in automating, configuring, and deploying cloud infrastructure and CI/CD pipelines. Proven ability to design and implement infrastructure as code (IaC), containerized applications using Docker and Kubernetes, and automate deployments using Jenkins, GitHub Actions, and Terraform. Proficient in monitoring, logging, and maintaining highly available systems on AWS. Strong exposure to Agile environments and production support.
 
 ### 📞 Contact & Info:
 - 📧 &nbsp; **Email:** [aartidevops12@gmail.com](mailto:aartidevops12@gmail.com)
 - 📞 &nbsp; **Phone:** +91 7091081350
-- 📍 &nbsp; **Location:** Bhubaneswar, India
-- 🎓 &nbsp; **Education:** B.E in Computer Science Engineering (Burdwan University, West Bengal)
+- 📍 &nbsp; **Location:** India | Bihar
 
 <br/>
 
@@ -32,14 +31,7 @@ AWS and DevOps Engineer with **3 years and 10 months** of hands-on experience in
 
 <br/>
 
-### 💼 Professional Experience
-
-#### **DevOps & Cloud Engineer** @ **Tech Mahindra**
-*Duration: Oct 2021 – Present (3 Years 10 Months)*  
-*Project: AWS DevOps Migration – Integration to Thread Connect*  
-*Environment: AWS, Docker, Kubernetes (EKS), Jenkins, Argo CD, Apache NiFi, Thread Connect, Git, Ubuntu*
-
-**Project Overview:**  
+### Project Overview
 Led the modernization of legacy integration systems to a cloud-native architecture on AWS. The project leveraged DevOps best practices, container orchestration, GitOps workflows, and CI/CD pipelines to enable scalable, secure, and automated integration delivery using tools like Kubernetes (EKS), Jenkins, Argo CD, and Apache NiFi.
 
 **Key Responsibilities & Achievements:**  
@@ -66,14 +58,4 @@ Led the modernization of legacy integration systems to a cloud-native architectu
 
 <br/>
 
-### 🎓 Education
-
-*   **B.E in Computer Science Engineering**  
-    *University Institute of Technology, Burdwan University, West Bengal* | **[2017-21]**
-
-<br/>
-
 ---
-
-### 📝 Declaration
-I hereby declare that the above information is true to the best of my knowledge and belief.
