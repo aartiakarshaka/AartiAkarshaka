@@ -1,4 +1,4 @@
-# Hey 👋, I am Aarti Akarshaka!
+# Hey 👋, I Am Aarti Akarshaka!
 
 <a href="https://instagram.com/aarti8283" target="_blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="24px"/></a>
 <br/><br/>
