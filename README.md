@@ -1,61 +1,79 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+# Hey 👋, I'm Aarti Akarshaka!
 
+<a href="https://instagram.com/aarti8283" target="_blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height="24px"/></a>
+<br/><br/>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<img align="right" alt="GIF" src="./techstack.gif" width="340px"/>
+
+### 🚀 Professional Summary
+AWS and DevOps Engineer with **3 years and 10 months** of hands-on experience in automating, configuring, and deploying cloud infrastructure and CI/CD pipelines. Proven ability to design and implement infrastructure as code (IaC), containerized applications using Docker and Kubernetes, and automate deployments using Jenkins, GitHub Actions, and Terraform. Proficient in monitoring, logging, and maintaining highly available systems on AWS. Strong exposure to Agile environments and production support.
+
+### 📞 Contact & Info:
+- 📧 &nbsp; **Email:** [aartidevops12@gmail.com](mailto:aartidevops12@gmail.com)
+- 📞 &nbsp; **Phone:** +91 7091081350
+- 📍 &nbsp; **Location:** Bhubaneswar, India
+- 🎓 &nbsp; **Education:** B.E in Computer Science Engineering (Burdwan University, West Bengal)
+
 <br/>
+
+### 🛠️ Core Skills
+
+| Category | Tools & Technologies | Description / Usage |
+| :--- | :--- | :--- |
+| **Cloud Platforms** | AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, EKS, Lambda, CloudFront) | Provisioned and managed scalable cloud infrastructure; automated deployments; VPC, IAM, ALB, Auto Scaling. |
+| **CI/CD & DevOps** | Jenkins, GitHub Actions, AWS CodePipeline | Built and maintained CI/CD pipelines for automated builds, testing, and multi-environment deployments. |
+| **Containerization** | Docker, Docker Compose | Containerized microservices for consistency across environments; developed/debugged container images. |
+| **Orchestration** | Kubernetes (EKS), Helm | Deployed and managed container workloads using EKS; Helm charts for version-controlled, repeatable deployments. |
+| **Infrastructure as Code** | Terraform, CloudFormation, Ansible | Automated cloud infrastructure provisioning with Terraform modules; Ansible configuration management. |
+| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack, AWS CloudWatch | Configured monitoring dashboards and alerts for system health and proactive incident response. |
+| **Version Control & Build** | Git, GitHub, GitLab, Maven, Nexus, Artifactory | Code collaboration, branching strategies, building Java microservices, and managing artifact repositories. |
+| **Security & Compliance** | IAM Policies, S3 Bucket Policies, Security Groups, Secrets Manager, AWS KMS | Implemented least privilege access, secured workloads, and encrypted secrets. |
+| **Networking & Recovery** | VPC, Subnets, NAT Gateway, Route Tables, Backup Lifecycle Policies, Snapshots | Designed secure VPC networks, public-private subnet segregation, and automated disaster recovery backups. |
+
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+### 💼 Professional Experience
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+#### **DevOps & Cloud Engineer** @ **Tech Mahindra**
+*Duration: Oct 2021 – Present (3 Years 10 Months)*  
+*Project: AWS DevOps Migration – Integration to Thread Connect*  
+*Environment: AWS, Docker, Kubernetes (EKS), Jenkins, Argo CD, Apache NiFi, Thread Connect, Git, Ubuntu*
 
-<br>
+**Project Overview:**  
+Led the modernization of legacy integration systems to a cloud-native architecture on AWS. The project leveraged DevOps best practices, container orchestration, GitOps workflows, and CI/CD pipelines to enable scalable, secure, and automated integration delivery using tools like Kubernetes (EKS), Jenkins, Argo CD, and Apache NiFi.
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+**Key Responsibilities & Achievements:**  
+*   **Multi-Environment Infrastructure Management**: Managed environment provisioning and deployment lifecycle using the DC Portal across Dev, Stage, and Production. Ensured configuration isolation, version alignment, and environment consistency to minimize drift.
+*   **Containerization & Deployment Automation**: Dockerized legacy integration services for better portability. Deployed containers on Amazon EKS with Kubernetes, enabling auto-scaling and high availability. Used Helm for Kubernetes deployment templating and lifecycle management.
+*   **CI/CD Pipeline Implementation**: Designed and implemented CI pipelines in Jenkins for unit testing, image builds, and artifact promotion. Integrated Argo CD for declarative GitOps delivery, automating image promotion across Dev → Stage → Prod.
+*   **Integration Development with NiFi & Thread Connect**: Re-architected ETL workflows using Apache NiFi, enabling real-time, API-based integrations with Thread Connect. Enabled event-driven integrations supporting scalable microservices communication.
+*   **AWS Infrastructure & Security**: Provisioned and maintained cloud infrastructure using AWS services (EC2, S3, RDS, EKS, IAM). Enforced data encryption, VPC-level network isolation, and audit logging for regulatory compliance.
 
-<br>
+<br/>
 
+### 🛠️ Projects
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+*   **AWS Infrastructure Automation for Web Platform**
+    *   Built modular Terraform scripts to provision AWS resources (VPC, EC2, RDS, S3, ALB, IAM).
+    *   Configured Auto Scaling Groups and ELB for high availability and fault tolerance.
+    *   Used CloudWatch alarms and SNS for proactive alerting and monitoring.
+    *   Automated AMI creation and EC2 patching using SSM documents and Lambda.
+*   **CI/CD Automation for Microservices**
+    *   Created CI/CD pipelines with Jenkins + GitHub Actions for microservices deployment to EKS.
+    *   Used Helm for Kubernetes application deployment and versioning.
+    *   Integrated SonarQube and OWASP Dependency-Check for code quality and security scans.
+    *   Enabled Blue/Green Deployment strategy in Kubernetes using service selectors.
 
-</a>
+<br/>
 
-<br>
+### 🎓 Education
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+*   **B.E in Computer Science Engineering**  
+    *University Institute of Technology, Burdwan University, West Bengal* | **[2017-21]**
+
+<br/>
+
+---
+
+### 📝 Declaration
+I hereby declare that the above information is true to the best of my knowledge and belief.
