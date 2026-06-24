@@ -10,7 +10,6 @@ AWS and DevOps Engineer with **4+ years** of hands-on experience in automating, 
 
 ### 📞 Contact & Info:
 - 📧 &nbsp; **Email:** [aartidevops12@gmail.com](mailto:aartidevops12@gmail.com)
-- 📞 &nbsp; **Phone:** +91 7091081350
 - 📍 &nbsp; **Location:** India | Bihar
 
 <br/>
